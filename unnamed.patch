@@ -1,0 +1,19 @@
+Index: html/html12.html
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+--- html/html12.html	(revision )
++++ html/html12.html	(revision )
+@@ -1,10 +0,0 @@
+-<!DOCTYPE html>
+-<html lang="en">
+-<head>
+-    <meta charset="UTF-8">
+-    <title>Title</title>
+-</head>
+-<body>
+-
+-</body>
+-</html>
+\ No newline at end of file
